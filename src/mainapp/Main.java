@@ -10,5 +10,7 @@ public class Main {
         color_1.print();
         color_2.print();
         color_3.print();
+
+        System.out.println(color_1.toString());
     }
 }
